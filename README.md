@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Nikhil Gavhane
+- I’m looking to collaborate with tech enthusiasts
 - 👀 I’m interested in programming for making huge impacts 
-- 🌱 I’m currently learning to help in converting raw data in meaningful insights
-- 💞️ I’m looking to collaborate with tech enthusiasts
-- 📫 Reach me through gavhanenikhil08@gmail.com
+- 🌱 I’m currently learning to help in converting RAW into USEFULL
+- 📫 Reach me through gavhanenikhil08@gmail.com & Connect on www.linkedin.com/in/nikhilgavhane
+
+
 - ⚡ Fun fact 
 
 <!---
