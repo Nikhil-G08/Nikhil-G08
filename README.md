@@ -5,7 +5,7 @@
 - 📫 Reach me through gavhanenikhil08@gmail.com & Connect on www.linkedin.com/in/nikhilgavhane
 
 
-- ⚡ Fun fact 
+  
 
 <!---
 Nikhil-G08/Nikhil-G08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
