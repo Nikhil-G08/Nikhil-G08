@@ -5,7 +5,7 @@
 - 📫 Reach me through gavhanenikhil08@gmail.com & Connect on www.linkedin.com/in/nikhilgavhane
 
 SKILLS
-<>  Language: SQL, Python
+<>  Language: SQL, Python ,HTML
 <>  Database: MySQL
 <>  Visualization: Power BI, Tableau
 <>  Spreadsheet: MS Excel
